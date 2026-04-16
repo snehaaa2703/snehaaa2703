@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a Bachelor of Engineering (Information Technology) graduate with a strong interest in software development and data analysis.<br>I have hands-on knowledge of Core Java, SQL, HTML, and CSS, and I enjoy solving problems and building practical applications.<br>Currently, I am exploring data analysis, and continuously improving my technical skills through projects and practice.<br>I am eager to learn, adaptable, and motivated to grow as a technology professional.
+I am a Bachelor of Engineering (Information Technology) graduate with a strong interest in software development and data analysis.<br>I have hands-on knowledge of Core Java, SQL, JDBC, JSP, Servlet, HTML, CSS, python(basics) and MS-Excel and I enjoy solving problems and building practical applications.<br>Currently, I am exploring data analysis, and continuously improving my technical skills through projects and practice.<br>I am eager to learn, adaptable, and motivated to grow as a technology professional.
 
 
 ## 🌐 Socials:
